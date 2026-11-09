@@ -1,0 +1,12 @@
+.env
+backend/.env
+backend/node_modules/
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/android/local.properties
+.playwright-mcp/
+customer_preview/
+**/.idea/
+**/.kotlin/

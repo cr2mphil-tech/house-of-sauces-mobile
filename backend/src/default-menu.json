@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Tikka",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Tikka",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Tikka",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Tikka",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Fajita",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Fajita",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Fajita",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Fajita",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Hot & Spicy",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Hot & Spicy",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Hot & Spicy",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Hot & Spicy",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Afghani",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Afghani",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Afghani",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Afghani",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Supreme",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Supreme",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Supreme",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Supreme",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Peri Peri",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Peri Peri",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Peri Peri",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Peri Peri",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Arabic Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Arabic Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Arabic Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Arabic Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Creamy Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Small",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Creamy Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Medium",
+    "price": 850.0,
+    "description": ""
+  },
+  {
+    "name": "Creamy Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Large",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Creamy Pizza",
+    "category": "Regular Flavour's Pizzas",
+    "size": "Jumbo",
+    "price": 1600.0,
+    "description": ""
+  },
+  {
+    "name": "Crown Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Medium",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Crown Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Large",
+    "price": 1500.0,
+    "description": ""
+  },
+  {
+    "name": "Crown Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Ext Large",
+    "price": 2000.0,
+    "description": ""
+  },
+  {
+    "name": "4 in 1 Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Medium",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "4 in 1 Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Large",
+    "price": 1500.0,
+    "description": ""
+  },
+  {
+    "name": "4 in 1 Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Ext Large",
+    "price": 2000.0,
+    "description": ""
+  },
+  {
+    "name": "Stuff Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Medium",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Stuff Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Large",
+    "price": 1500.0,
+    "description": ""
+  },
+  {
+    "name": "Stuff Kababish",
+    "category": "Special Flavour's Pizzas",
+    "size": "Ext Large",
+    "price": 2000.0,
+    "description": ""
+  },
+  {
+    "name": "Lava Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Medium",
+    "price": 1100.0,
+    "description": ""
+  },
+  {
+    "name": "Lava Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Large",
+    "price": 1500.0,
+    "description": ""
+  },
+  {
+    "name": "Lava Pizza",
+    "category": "Special Flavour's Pizzas",
+    "size": "Ext Large",
+    "price": 2000.0,
+    "description": ""
+  },
+  {
+    "name": "1 Miter Pizza",
+    "category": "Special Item (Single Offer)",
+    "size": "Jumbo",
+    "price": 3000.0,
+    "description": ""
+  },
+  {
+    "name": "DEAL 01",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1200.0,
+    "description": "1 Large Pizza, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 02",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1450.0,
+    "description": "1 Large Pizza, 1 Half Pasta"
+  },
+  {
+    "name": "DEAL 03",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1950.0,
+    "description": "1 X-Large Pizza, 1 Half Pasta"
+  },
+  {
+    "name": "DEAL 04",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1700.0,
+    "description": "1 X-Large Pizza, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 05",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1800.0,
+    "description": "2 Medium Pizza, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 06",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1200.0,
+    "description": "1 Medium Pizza, 1 Half Pasta"
+  },
+  {
+    "name": "DEAL 07",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 1450.0,
+    "description": "3 Small Pizza, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 08",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 800.0,
+    "description": "1 Small Pizza, 1 Half Pasta"
+  },
+  {
+    "name": "DEAL 09",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 2000.0,
+    "description": "1 Large Pizza, 2 Zinger Burger, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 10",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 900.0,
+    "description": "2 Zinger Burger, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 11",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 2300.0,
+    "description": "2 Large Pizza, 1 Ltr Cold Drink"
+  },
+  {
+    "name": "DEAL 12",
+    "category": "Deals",
+    "size": "Bundle",
+    "price": 3300.0,
+    "description": "1 Large Pizza, 1 Medium Pizza, 1 Small Pizza, 1 Ltr Cold Drink, 1 Half Pasta, 1 Roll"
+  },
+  {
+    "name": "Creamy Pasta",
+    "category": "Pasta",
+    "size": "Half",
+    "price": 400.0,
+    "description": ""
+  },
+  {
+    "name": "Creamy Pasta",
+    "category": "Pasta",
+    "size": "Full",
+    "price": 750.0,
+    "description": ""
+  },
+  {
+    "name": "Loaded Fries",
+    "category": "Fries",
+    "size": "Half",
+    "price": 450.0,
+    "description": ""
+  },
+  {
+    "name": "Lubnani Roll",
+    "category": "Roll",
+    "size": "Standard",
+    "price": 300.0,
+    "description": ""
+  },
+  {
+    "name": "Zinger Roll",
+    "category": "Roll",
+    "size": "Standard",
+    "price": 350.0,
+    "description": ""
+  },
+  {
+    "name": "Zinger Burger",
+    "category": "Zinger",
+    "size": "Standard",
+    "price": 400.0,
+    "description": ""
+  }
+]
